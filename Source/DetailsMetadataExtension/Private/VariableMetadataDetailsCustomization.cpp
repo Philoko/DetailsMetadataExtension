@@ -8,7 +8,6 @@
 #include "DetailCategoryBuilder.h"
 #include "DetailWidgetRow.h"
 #include "Widgets/Text/STextBlock.h"
-#include "SlateCore/Public/Widgets/SBoxPanel.h"
 #include "Editor/PropertyEditor/Public/PropertyCustomizationHelpers.h"
 #include "Widgets/Input/SMultiLineEditableTextBox.h"
 #include "Widgets/Input/SEditableTextBox.h"
